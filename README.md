@@ -17,7 +17,6 @@ Azure technologies : Static web apps and  Azure health bot
 - Have an aesthetically pleasing visual design and architecture.
 ### HOME
 <img width="1079" alt="home" src="https://user-images.githubusercontent.com/118188358/204587857-7ba7fa82-ed1e-466d-a2da-9cc41fe2d373.png">
-### about
 <img width="1076" alt="about" src="https://user-images.githubusercontent.com/118188358/204587755-2f95f0e4-7556-4a71-959c-8b665ac43e6e.png">
 ### gallery
 <img width="1078" alt="gallery" src="https://user-images.githubusercontent.com/118188358/204587932-6bf5cd79-a26c-4c16-a06c-e9b9fcfb8d4a.png">
