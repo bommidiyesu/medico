@@ -30,7 +30,7 @@ APP service URL : https://medico.azurewebsites.net
 ............................................................................................................................................
 
 
-Project demo video URL:
+Project demo video URL: https://drive.google.com/drive/folders/1XtXw3eGXni-pRWMQFplwBAOfzRNX91H9
 
 
 
