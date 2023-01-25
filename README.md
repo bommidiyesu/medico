@@ -21,11 +21,11 @@ Primary Azure Technology      :  Static Web Apps, App service.
 
 ..............................................................................................................................................
 
-Static Web App URL : https://kind-mushroom-05e835410.2.azurestaticapps.net
+1,Static Web App URL : https://kind-mushroom-05e835410.2.azurestaticapps.net
+
+2,APP service URL : https://medico.azurewebsites.net
 
 Azure Health Bot URL : https://kind-mushroom-05e835410.2.azurestaticapps.net/bot.html
-
-APP service URL : https://medico.azurewebsites.net
 
 ............................................................................................................................................
 
