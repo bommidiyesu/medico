@@ -17,7 +17,7 @@ Problem Statement/Opportunity : Good Health Is needed for evrey person.
 
 Project Description           :  Best Health  ginve the Best lifestyle Results.
 
-Primary Azure Technology      :  Static Web Apps, Azure Health Bot and App service.
+Primary Azure Technology      :  Static Web Apps, App service.
 
 ..............................................................................................................................................
 
